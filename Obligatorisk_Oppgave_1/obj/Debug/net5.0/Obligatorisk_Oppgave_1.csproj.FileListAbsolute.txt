@@ -1,0 +1,16 @@
+D:\GET Academy\Modul 3\Oppgaver\Oblig1\Obligatorisk_Oppgave_1\bin\Debug\net5.0\Obligatorisk_Oppgave_1.exe
+D:\GET Academy\Modul 3\Oppgaver\Oblig1\Obligatorisk_Oppgave_1\bin\Debug\net5.0\Obligatorisk_Oppgave_1.deps.json
+D:\GET Academy\Modul 3\Oppgaver\Oblig1\Obligatorisk_Oppgave_1\bin\Debug\net5.0\Obligatorisk_Oppgave_1.runtimeconfig.json
+D:\GET Academy\Modul 3\Oppgaver\Oblig1\Obligatorisk_Oppgave_1\bin\Debug\net5.0\Obligatorisk_Oppgave_1.runtimeconfig.dev.json
+D:\GET Academy\Modul 3\Oppgaver\Oblig1\Obligatorisk_Oppgave_1\bin\Debug\net5.0\Obligatorisk_Oppgave_1.dll
+D:\GET Academy\Modul 3\Oppgaver\Oblig1\Obligatorisk_Oppgave_1\bin\Debug\net5.0\ref\Obligatorisk_Oppgave_1.dll
+D:\GET Academy\Modul 3\Oppgaver\Oblig1\Obligatorisk_Oppgave_1\bin\Debug\net5.0\Obligatorisk_Oppgave_1.pdb
+D:\GET Academy\Modul 3\Oppgaver\Oblig1\Obligatorisk_Oppgave_1\obj\Debug\net5.0\Obligatorisk_Oppgave_1.csproj.AssemblyReference.cache
+D:\GET Academy\Modul 3\Oppgaver\Oblig1\Obligatorisk_Oppgave_1\obj\Debug\net5.0\Obligatorisk_Oppgave_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\GET Academy\Modul 3\Oppgaver\Oblig1\Obligatorisk_Oppgave_1\obj\Debug\net5.0\Obligatorisk_Oppgave_1.AssemblyInfoInputs.cache
+D:\GET Academy\Modul 3\Oppgaver\Oblig1\Obligatorisk_Oppgave_1\obj\Debug\net5.0\Obligatorisk_Oppgave_1.AssemblyInfo.cs
+D:\GET Academy\Modul 3\Oppgaver\Oblig1\Obligatorisk_Oppgave_1\obj\Debug\net5.0\Obligatorisk_Oppgave_1.csproj.CoreCompileInputs.cache
+D:\GET Academy\Modul 3\Oppgaver\Oblig1\Obligatorisk_Oppgave_1\obj\Debug\net5.0\Obligatorisk_Oppgave_1.dll
+D:\GET Academy\Modul 3\Oppgaver\Oblig1\Obligatorisk_Oppgave_1\obj\Debug\net5.0\ref\Obligatorisk_Oppgave_1.dll
+D:\GET Academy\Modul 3\Oppgaver\Oblig1\Obligatorisk_Oppgave_1\obj\Debug\net5.0\Obligatorisk_Oppgave_1.pdb
+D:\GET Academy\Modul 3\Oppgaver\Oblig1\Obligatorisk_Oppgave_1\obj\Debug\net5.0\Obligatorisk_Oppgave_1.genruntimeconfig.cache
